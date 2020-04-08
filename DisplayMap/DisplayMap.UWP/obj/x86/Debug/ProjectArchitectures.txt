@@ -1,0 +1,1 @@
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap.UWP\DisplayMap.UWP.csproj;x86

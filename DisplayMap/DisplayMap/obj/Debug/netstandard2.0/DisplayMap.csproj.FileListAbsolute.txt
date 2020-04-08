@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\bin\Debug\netstandard2.0\DisplayMap.deps.json
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\bin\Debug\netstandard2.0\DisplayMap.dll
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.AssemblyInfo.cs
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\bin\Debug\netstandard2.0\DisplayMap.pdb
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.dll
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\DisplayMap.pdb
+C:\Users\dell\source\repos\DisplayMap\DisplayMap\DisplayMap\obj\Debug\netstandard2.0\MapDisplay.xaml.g.cs
